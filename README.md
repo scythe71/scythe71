@@ -40,9 +40,9 @@
 
 ## 🤝 Connect With Me
 <p align="left">
-  <a href="https://github.com/scythe71"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="blank"/></a>
-  <a href="https://linkedin.com/in/ammar-shiddiq-bb538833a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
-  <a href="mailto:ammarshiddiq2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"/></a>
+  <a href="https://github.com/scythe71" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ammar-shiddiq-bb538833a" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ammarshiddiq2@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
