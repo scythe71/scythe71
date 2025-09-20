@@ -3,7 +3,6 @@
 🎓 Currently studying **Programming & Web Development**  
 💻 Aspiring **Full Stack Developer** | Learning **PHP (OOP & MVC)** → Laravel soon 🚀  
 🧠 Passionate about **Psychological Anime/Manga**, Tech, and Problem Solving  
-⚡ Fun fact: I’ve moved house **8 times** and still can’t get enough bakso 🍜
 
 ---
 
