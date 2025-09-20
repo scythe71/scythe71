@@ -16,6 +16,7 @@
 ## 📊 GitHub Overview
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scythe71&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&border_radius=10" alt="GitHub Streaks" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scythe71&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
 </p>
 
