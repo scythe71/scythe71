@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=scythe71&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
   <img src="https://streak-stats.demolab.com?user=scythe71&theme=tokyonight&border_radius=10" alt="GitHub Streaks" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scythe71&theme=tokyo-night" alt="Ammar's github activity graph" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scythe71&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
 </p>
 
